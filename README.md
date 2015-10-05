@@ -4,7 +4,7 @@ acme-php-types
 Everyone knows that Haskell type system is too restrictive and dull for real world applications.
 Millions of users cannot be wrong: hail to industrial-strength PHP typing, now in Haskell!
 
-For years Haskell developers were bursting with envy, looking at the easy-as-a-pie type juggling in PHP. But today you can do all these amazing stuff yourself:
+For years Haskell developers were bursting with envy, looking at the easy-as-a-pie type juggling in PHP. But today you can do all this amazing stuff yourself:
 
 ```
 > stack ghci --ghc-options="-XOverloadedStrings"
